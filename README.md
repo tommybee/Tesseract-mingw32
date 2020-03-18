@@ -4,7 +4,7 @@ It's a static library, libtesseract_4_1_1_all.a in the lib directory
 I also built all exeutable files provided by the original tesseract library.
 you can check the bin directory.
 
-executable file list as following,
+executable file list as following,<p>
 ambiguous_words.exe <br>
 classifier_tester.exe<br>
 cntraining.exe<br>
