@@ -1,0 +1,1 @@
+# Tesseract-mingw32
