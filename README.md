@@ -5,19 +5,19 @@ I also built all exeutable files provided by the original tesseract library.
 you can check the bin directory.
 
 executable file list as following,
-ambiguous_words.exe
-classifier_tester.exe
-cntraining.exe
-combine_lang_model.exe
-combine_tessdata.exe
-dawg2wordlist.exe
-hello.exe
-lstmeval.exe
-lstmtraining.exe
-mftraining.exe
-set_unicharset_properties.exe
-shapeclustering.exe
-tesseract.exe
-text2image.exe
-unicharset_extractor.exe
-wordlist2dawg.exe
+ambiguous_words.exe <br>
+classifier_tester.exe<br>
+cntraining.exe<br>
+combine_lang_model.exe<br>
+combine_tessdata.exe<br>
+dawg2wordlist.exe<br>
+hello.exe<br>
+lstmeval.exe<br>
+lstmtraining.exe<br>
+mftraining.exe<br>
+set_unicharset_properties.exe<br>
+shapeclustering.exe<br>
+tesseract.exe<br>
+text2image.exe<br>
+unicharset_extractor.exe<br>
+wordlist2dawg.exe<br>
